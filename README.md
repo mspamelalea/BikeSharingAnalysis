@@ -1,5 +1,5 @@
 # Bike Sharing Analysis
-This analysis is for potential investors in a bike-sharing program in the city of Des Moines, Iowa. Using data from August of 2019 of New York City bike-sharing data, a Tableau story with many types of charts is presented.
+This analysis is for potential investors in a bike-sharing program in the city of Des Moines, Iowa. Using data from August of 2019 of New York City bike-sharing data, a Tableau story with many types of charts is presented. Is Des Moines a good place for a bike share program?
 
 You can view the story on Tableau Public Link:
 https://public.tableau.com/profile/pam.hamrick#!/vizhome/BikeSharingAnalysis_15993519098500/BikeSharingAnalysis?publish=yes
@@ -7,7 +7,7 @@ https://public.tableau.com/profile/pam.hamrick#!/vizhome/BikeSharingAnalysis_159
 ## Comparing New York City to Des Moines
 It may appear to be the most unikely comparsion but the chart created show the similarities between the cities.
 Comparing the population of both cities shows New York has a much larger population but the similarities in age diversity 
-and gender diversity are shown.
+and gender diversity are shown. Knowing these basic similarities, Des Moines would be a great place for a bike share program.
 ![](DMvNYC.PNG)
 
 
